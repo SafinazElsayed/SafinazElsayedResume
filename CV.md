@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Safinaz is an Oracle certified Software Engineer who has 6 years of experience in Software Industry. With an extensive participation in the different phases of Software Development &amp; Software Testing – Analysis, Detailed Design, Build, and Testing – Safinaz has worked in many roles starting from a Software Engineer till she reached a technical lead role and has contributed as well in the software testing field as a Technical Tester (Performance and Automation). She had the chance to contribute in both software development - by working in a product development stream (CMS) in one of the largest CMMI Certified software companies in Egypt [Asset Technology Group](http://www.asset.com.eg/home/about-asset.aspx) – and software testing by working in one of the biggest companies in software testing in Australia [Planit Software Testing](http://www.planit.net.au/), she managed to gain the proper skills and broad knowledge required to work in the area of Java/J2ee development following the software industry standards and best practices.
+Safinaz is an Oracle certified Software Engineer who has 6 years of experience in Software Industry. With an extensive participation in the different phases of Software Development &amp; Software Testing â€“ Analysis, Detailed Design, Build, and Testing â€“ Safinaz has worked in many roles starting from a Software Engineer till she reached a technical lead role and has contributed as well in the software testing field as a Technical Tester (Performance and Automation). She had the chance to contribute in both software development - by working in a product development stream (CMS) in one of the largest CMMI Certified software companies in Egypt [Asset Technology Group](http://www.asset.com.eg/home/about-asset.aspx) â€“ and software testing by working in one of the biggest companies in software testing in Australia [Planit Software Testing](http://www.planit.net.au/), she managed to gain the proper skills and broad knowledge required to work in the area of Java/J2ee development following the software industry standards and best practices.
 
 ## Education
 
@@ -67,7 +67,7 @@ Oracle Certified Associate Java SE7
 
 ## Employment History
 
-- **??**** Planit Software Testing**
+- ****** Planit Software Testing**
 
 **Website:** [http://www.planit.net.au/](http://www.planit.net.au/)
 
@@ -101,9 +101,9 @@ Safinaz shared in Jupiter releases since 2006 and other Jupiter based products, 
 
 
 
-| Planit (Oxford University Press Client – Performance Testing) |
+| Planit (Oxford University Press Client â€“ Performance Testing) |
 | --- |
-| Period | April 2014 – May 2014 |
+| Period | April 2014 â€“ May 2014 |
 | Target | Performance Testing for oxford university press main site. |
 | Role |
 - Contributed in the test analysis phase determining which functionalities affect the performance and need to be tested.
@@ -113,9 +113,9 @@ Safinaz shared in Jupiter releases since 2006 and other Jupiter based products, 
 - Prepare handover session for the client delivering the finalized test framework.
    |
 
-| Planit (NAB Client – Automation Testing) |
+| Planit (NAB Client â€“ Automation Testing) |
 | --- |
-| Period | June 2014 – July 2014 |
+| Period | June 2014 â€“ July 2014 |
 | Target | Automation Testing for one of nab main projects |
 | Role |
 - Contributed in the implementation of a customized test framework using selenium.
@@ -151,7 +151,7 @@ Safinaz shared in Jupiter releases since 2006 and other Jupiter based products, 
   |
 |   |   |
 | Jupiter Portal Framework |
-| Period | 2008 – 2009 |
+| Period | 2008 â€“ 2009 |
 | Target | This project aims to develop a portal framework, providing the functionalities of other portal frameworks without their constraints |
 | Role |
 - Provide detailed design for some features using Rational Rose.
