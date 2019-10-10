@@ -1,5 +1,3 @@
-
-
 #
 
 
@@ -24,45 +22,6 @@ Oracle Certified Associate Java SE7
 - Arabic ( Mother Tongue)
 - Germany (Basic)
 
-## Skills Profile
-
-| Skill | Level |   |
-| --- | --- | --- |
-| Java | Expert |   |
-| J2SE (JDBC) | Expert |   |
-| J2EE(EJB,JSP, Servlets) | Expert |   |
-| JSR 286 | Intermediate |   |
-| Junit  | Expert |   |
-| JMeter | Expert |   |
-| HP Load Runner | Novice |   |
-| HP ALM | Intermediate |   |
-| Git | Intermediate |   |
-| Selenium | Intermediate |   |
-| Struts,Struts 2 | Expert |   |
-| Ajax,JQuery,Dojo  | Expert |   |
-| Hibernate | Intermediate |   |
-| Oracle Database | Expert |   |
-| Oracle JDeveloper | Expert |   |
-| Oracle Workflow | Expert |   |
-| Oracle  SOA Suite (BPEL)  | Intermediate |   |
-| Oracle Application Server | Intermediate |   |
-| OC4J | Expert |   |
-| SQL Server | Expert |   |
-| MySQL | Intermediate |   |
-| Liferay portal | Intermediate |   |
-| JBOSS Application Server | Expert |   |
-| Tomcat Application Server | Intermediate |   |
-| HTML,XML | Expert |   |
-| Css | Intermediate |   |
-| XSD, XSL,XPath, Dom4J | Expert |   |
-| NetBeans | Expert |   |
-| Eclipse | Expert |   |
-| UML | Expert |   |
-| IBM Rational Rose | Expert |   |
-| C# .Net | Intermediate |   |
-| Microsoft Visual Studio | Intermediate |   |
-| Microsoft Visual Sourcesafe | Expert |   |
-
 
 
 ## Employment History
@@ -81,7 +40,7 @@ Oracle Certified Associate Java SE7
 
 
 
-- **Asset Technology Group**
+### Asset Technology Group
 
 **Website:** [**http://www.asset.com.eg/**](http://www.asset.com.eg/)
 
@@ -101,8 +60,8 @@ Safinaz shared in Jupiter releases since 2006 and other Jupiter based products, 
 
 
 
-| Planit (Oxford University Press Client – Performance Testing) |
-| --- |
+| Planit (Oxford University Press Client – Performance Testing) | |
+| --- | |
 | Period | April 2014 – May 2014 |
 | Target | Performance Testing for oxford university press main site. |
 | Role |
@@ -124,8 +83,8 @@ Safinaz shared in Jupiter releases since 2006 and other Jupiter based products, 
 
 
 
-| Jupiter Portlets for Liferay |
-| --- |
+| Jupiter Portlets for Liferay | |
+| --- | |
 | Period | 2010-2011 |
 | Target | Re-engineering all Jupiter features into JSR 286 portlets running on Liferay portal server |
 | Role |
@@ -182,9 +141,47 @@ Safinaz shared in Jupiter releases since 2006 and other Jupiter based products, 
 | Period | 2006 |
 | Role | Start fixing issues that relates to the basic functionality of Jupiter as a document management and workflow (Oracle Workflow).  |
 
+## Skills Profile
+
+| Skill | Level |   |
+| --- | --- | --- |
+| Java | Expert |   |
+| J2SE (JDBC) | Expert |   |
+| J2EE(EJB,JSP, Servlets) | Expert |   |
+| JSR 286 | Intermediate |   |
+| Junit  | Expert |   |
+| JMeter | Expert |   |
+| HP Load Runner | Novice |   |
+| HP ALM | Intermediate |   |
+| Git | Intermediate |   |
+| Selenium | Intermediate |   |
+| Struts,Struts 2 | Expert |   |
+| Ajax,JQuery,Dojo  | Expert |   |
+| Hibernate | Intermediate |   |
+| Oracle Database | Expert |   |
+| Oracle JDeveloper | Expert |   |
+| Oracle Workflow | Expert |   |
+| Oracle  SOA Suite (BPEL)  | Intermediate |   |
+| Oracle Application Server | Intermediate |   |
+| OC4J | Expert |   |
+| SQL Server | Expert |   |
+| MySQL | Intermediate |   |
+| Liferay portal | Intermediate |   |
+| JBOSS Application Server | Expert |   |
+| Tomcat Application Server | Intermediate |   |
+| HTML,XML | Expert |   |
+| Css | Intermediate |   |
+| XSD, XSL,XPath, Dom4J | Expert |   |
+| NetBeans | Expert |   |
+| Eclipse | Expert |   |
+| UML | Expert |   |
+| IBM Rational Rose | Expert |   |
+| C# .Net | Intermediate |   |
+| Microsoft Visual Studio | Intermediate |   |
+| Microsoft Visual Sourcesafe | Expert |   |
+
 
 
 ## References
 
 References are available on request.
-
