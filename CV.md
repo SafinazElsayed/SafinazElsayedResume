@@ -67,7 +67,7 @@ Oracle Certified Associate Java SE7
 
 ## Employment History
 
-- ****** Planit Software Testing**
+- **Planit Software Testing**
 
 **Website:** [http://www.planit.net.au/](http://www.planit.net.au/)
 
@@ -81,7 +81,7 @@ Oracle Certified Associate Java SE7
 
 
 
-- **??**** Asset Technology Group**
+- **Asset Technology Group**
 
 **Website:** [**http://www.asset.com.eg/**](http://www.asset.com.eg/)
 
